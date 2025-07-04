@@ -1,4 +1,4 @@
-# 💼 Job Portal - Fullstack Web Application
+# 💼 Talent Summit - Fullstack Job Portal Web Application
 
 A modern fullstack Job Portal where employers can post jobs and candidates can browse, apply, and track applications. This project uses **Clerk** for authentication, **Cloudinary** for media storage, and **MongoDB** as the database.
 
