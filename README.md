@@ -2,7 +2,7 @@
 
 A modern fullstack Job Portal where employers can post jobs and candidates can browse, apply, and track applications. This project uses **Clerk** for authentication, **Cloudinary** for media storage, and **MongoDB** as the database.
 
-## 🌐 Live Demo
+## 🌐 Live Demo  (First click backend url for better experience)
 
 🚀 **Frontend:** [https://job-portal-full-stack-client-rho.vercel.app](https://job-portal-full-stack-client-rho.vercel.app)  
 🛠 **Backend API:** [https://job-portal-full-stack-server-lac.vercel.app/](https://job-portal-full-stack-server-lac.vercel.app/)  
