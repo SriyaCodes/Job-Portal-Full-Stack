@@ -33,8 +33,7 @@ A modern fullstack Job Portal where employers can post jobs and candidates can b
 ### Frontend:
 - React.js (with Vite or Create React App)
 - Clerk React SDK
-- Axios for API calls
-- Tailwind CSS / ShadCN UI
+- Tailwind CSS 
 
 ### Backend:
 - Node.js
