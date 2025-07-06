@@ -18,7 +18,7 @@ A modern fullstack Job Portal where employers can post jobs and candidates can b
   - Upload company logo via Cloudinary
   - View applicants for each job
 - 👩‍💻 Candidate Tools
-  - Search and filter jobs by category, location, level
+  - Search and filter jobs by category, location and level
   - Apply to jobs and upload resume
   - Track application history
 - 🔔 Webhooks
